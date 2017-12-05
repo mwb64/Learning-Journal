@@ -1,0 +1,7 @@
+# Week 1 Closeout
+
+### I didn't really think to write on a daily bases so I'll summarize the week as best as possible. It was a lot of information crammed into a short amount of days, per the code school environment norm. We worked on learning basic jQuery syntax as well a focused a lot on best practices for writing code with responsive design in mind. In additional we learned about SMACSS, a framework for how to best structure your CSS code.
+
+### We worked on a number of Lab assignments from a pair-programming approach, which we started to become familiar with in Code 201. It will be interesting to have people assigned to work with, better I think, since it keeps you from working with the same person and helps you adjust to different ways people approach a situation and program. The whiteboarding piece was comfortable from just the planning perspective since I like to do that anyway. I think I'll change my mind when it becomes writing out syntax for how to solve a program and/if its more than just my partner and myself watching.
+
+# There was a lot of small pieces discussed that aren't included but I think this is a good start. I'll work to move to writing a bit after (or before the next) class.
